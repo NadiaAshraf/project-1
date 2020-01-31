@@ -87,7 +87,7 @@ h2{
   background-color: #efefef;
   color: black;
   padding: 5px;
-  border-radius: 10%;
+  border-radius: 5%;
   display: table;
   margin: 10px auto;
   border:solid black;
@@ -100,7 +100,7 @@ h2{
   border-width: thin;
 }
 .card {
-  text-align: center;
+  text-align:center;
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -210,6 +210,7 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+
 .experience{
   font-family: monospace;
   color:blue;

@@ -100,7 +100,7 @@ h2{
   border-width: thin;
 }
 .card {
-  text-align:center;
+  text-align:left;
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -210,8 +210,18 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+h2{text-align: center;}
 
-.experience{
-  font-family: monospace;
+.main-ex{
+  font-family:inherit;
+
+  text-align: left;
+
   color:blue;
+}
+.ex{
+  text-decoration-style: wavy;
+  font-size:1.8em;
+  font-style: oblique;
+  color:purple;
 }
